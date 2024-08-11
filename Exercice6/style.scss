@@ -1,0 +1,8 @@
+$blue:  #007bff;
+
+// Appliquer les styles aux éléments de liste
+li {
+    color: $blue; // Couleur de texte bleue
+    padding-left: 10px;  // Espacement intérieur de 10 pixels à gauche
+    margin-bottom: 15px; // Marge inférieure de 15 pixels
+}
